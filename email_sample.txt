@@ -1,0 +1,28 @@
+From: Amazon Support alert@amaz0n-security.com
+To: user@example.com
+Subject: Immediate Action Required: Suspicious Activity Detected on Your Amazon Account
+Date: Mon, 27 May 2025 14:20:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Amazon Customer,
+
+We have detected suspicious login attempts on you're Amazon account from an unrecognized device located in Russia. For you're safety, we have temporary locked you're account to prevent unauthorized access.
+
+It is very important that you confirm you're identity and secure you're account to avoid permanent suspension.
+
+Please take the following actions immediately:
+
+🔒 Verify your account now by clicking the secure link below:
+👉 http://amaz0n-verification-center.com/authenticate
+
+If you fail to respond within the next 12 hours, your account will be flagged for permanent closure and all pending orders will be cancelled. This action cannot be reversed once it is processed.
+
+We are committed to protecting our customers. Please do not ignore this warning. This is you’re final opportunity to retain full access to your account.
+
+Thank you for being a valued customer,
+Amazon Account Support Team
+https://www.amazon.com
+
+Attachment: verify_identity_form.zip
+
