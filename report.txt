@@ -1,0 +1,22 @@
+
+========== EMAIL ANALYSIS REPORT ==========
+
+📌 Email Classification: PHISHING
+🔒 Confidence Score: 75/100
+
+⚠️ Spoofed Sender: Sender domain 'amaz0n-security.com' not in trusted domains.
+
+🌐 Untrusted Links Found:
+ - http://amaz0n-verification-center.com/authenticate
+ - https://www.amazon.com
+
+✏️ Grammar Issues:
+ - you're identity
+
+📝 Summary of Findings:
+ - Sender domain 'amaz0n-security.com' not in trusted domains.
+ - Untrusted URL detected: http://amaz0n-verification-center.com/authenticate
+ - Untrusted URL detected: https://www.amazon.com
+ - Grammar issue detected: 'you're identity'
+===========================================
+
