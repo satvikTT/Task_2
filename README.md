@@ -19,10 +19,10 @@ Identify phishing characteristics in a suspicious email sample using manual anal
 
 ## Files Included
 
-- **test.py**  
+- **py_test_script.py**  
 A Python script that processes a raw email, extracts key headers, identifies suspicious URLs, scans the email body for urgency cues and grammatical issues, and produces a phishing detection report.
 
-- **phishing_email.txt**  
+- **email_sample.txt**  
 A sample phishing email text file utilized as input for the analysis script.
 
 - **report.txt**  
@@ -46,11 +46,12 @@ A structured report highlighting the phishing indicators detected in the sample 
 ### Run the script with:
 
    ```bash
-   python test.py
+   python py_test_script.py
    ```
+
 ### 6. For creating a report file in the same folder , run the script with :
    
    ```bash
-   python test.py > report.txt
+   python py_test_script.py > report.txt
    ```
 
