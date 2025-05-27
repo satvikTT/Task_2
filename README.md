@@ -49,7 +49,7 @@ A structured report highlighting the phishing indicators detected in the sample 
    python py_test_script.py
    ```
 
-### 6. For creating a report file in the same folder , run the script with :
+### 4. For creating a report file in the same folder , run the script with :
    
    ```bash
    python py_test_script.py > report.txt
