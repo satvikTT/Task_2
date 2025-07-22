@@ -1,4 +1,4 @@
-# EMAIL PHISHING AND ANALYSIS PROJECT (TASK-2)
+# EMAIL PHISHING AND ANALYSIS
 
 Learn how to discover that the email is spoofed and to get protetected by it to deepen your understanding of network behavior and improve security changes.
 
